@@ -1,3 +1,3 @@
 # AI GPT Portfolio
 
-A simple, elegant portfolio showcasing GPT-based tools.
+A clean portfolio showcasing GPT-based projects.
